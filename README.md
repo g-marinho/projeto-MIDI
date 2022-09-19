@@ -1,4 +1,4 @@
-<h1 align="center">pong 1.0</h1>
+<h1 align="center">alura-MIDI</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://alura.com.br" target="_blank">Alura</a>.
